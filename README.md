@@ -3,6 +3,7 @@
 - [Time and Space Complexity:](#time-and-space-complexity)
 - [Using your network for guidance:](#using-your-network-for-guidance)
 - [My process so far](#my-process-so-far)
+  - [Things I want to try](#things-i-want-to-try)
 - [Other Learning Resources:](#other-learning-resources)
 
 # Interview-journey
@@ -29,7 +30,12 @@ You'll want to make sure you have a firm grasp on basic Data Types and Structure
 - Graphs and Trees - Basic understanding and traversal needed really only. 
 
 # Time and Space Complexity: 
-LOLOL. Yeah right. 
+LOLOL. Yeah right. Idk jack shit about this!
+Ok, so I found this, its a good explanation for understanding how to calculate basic space complexity of an algorithm: 
+[Space Complexity of Algorithms](https://www.studytonight.com/data-structures/space-complexity-of-algorithms)
+
+The swift algorithm club had a decent explanation of BigO Notation: 
+[Swift Algorithm Club - Big O notation](https://github.com/insaineyesay/swift-algorithm-club/blob/master/Big-O%20Notation.markdown)
 
 # Using your network for guidance:
 I work at a fortune 30 medical insurance company. So, every now and then smart people get hired. Normally, they end up using this company as a springboard to something better. We've had guys go to Google, Microsoft, and Amazon. I think there's one guy in front of me that will make it to a large Silicon Valley organization, but after him, I'm on deck for take off, (Aug 2020 currently) so I need to get moving lol.
@@ -37,7 +43,8 @@ I work at a fortune 30 medical insurance company. So, every now and then smart p
 These guys that have moved onto other things are cool enough that they come back and help guide us through the path. This is incredibly vital. If you don't have such a group, create a slack channel or try to find one that you can get into. Normally, people love to help others and as long as you don't abuse the relationship, you should be able to ask general 'wtf' questions, to help you get over a hump. I wouldn't say problem specific questions, because that's exactly what you have to figure out on your own, but more like 'do you have a good resource for system design?' type of questions. 
 
 # My process so far
-Here's what I'm currently doing to go through each algorithm I write. 
+Here's what I'm currently doing to go through each algorithm I write. One thing one of my coding buddies told me was to not spend hours and hours on a simple Alogrithm, this isn't Dark Souls. Yes, you feel great after solving, but the purpose isn't solving, its developing the mindset it takes to propeerly scope out a problem, break it down into chunks and solve it systematically. 
+
 August 2020
 * Hack the shit until it works in swift playgrounds (lol) 
 * Just read the Hired in Tech site, well some of it anyway, and downloaded the Canvas that breaks each part down into sections, and by the end, if you've filled out everything, you should hit all the parts necessary to decently design an algorithmic solution. 
@@ -51,6 +58,13 @@ August 2020
     * Pass in some sample tests
     * Extensive Test
 That seems like a lot, so we'll see where it gets me. I'll update the section as I get better at it. 
+
+## Things I want to try
+* Flashcards
+* The systematic process above
+* Writing notes 
+* Reviewing solutions, not memorizing, then see if once I understand the solution, if I can implement something without looking back at it. 
+* 
 
 # Other Learning Resources:
 - [Coding Interview Journey](https://github.com/jwasham/coding-interview-university)
