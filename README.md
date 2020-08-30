@@ -4,6 +4,8 @@
 - [Using your network for guidance:](#using-your-network-for-guidance)
 - [My process so far](#my-process-so-far)
   - [Things I want to try](#things-i-want-to-try)
+- [Tricks of the Trade](#tricks-of-the-trade)
+    - [How to find the number of digits in an Int](#how-to-find-the-number-of-digits-in-an-int)
 - [Other Learning Resources:](#other-learning-resources)
 
 # Interview-journey
@@ -64,7 +66,17 @@ That seems like a lot, so we'll see where it gets me. I'll update the section as
 * The systematic process above
 * Writing notes 
 * Reviewing solutions, not memorizing, then see if once I understand the solution, if I can implement something without looking back at it. 
-* 
+
+
+# Tricks of the Trade
+### How to find the number of digits in an Int
+```
+var n = 234
+while(n > 0) {
+  println(n % 10)
+  n = n / 10
+}
+```
 
 # Other Learning Resources:
 - [Coding Interview Journey](https://github.com/jwasham/coding-interview-university)
